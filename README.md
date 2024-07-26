@@ -40,4 +40,13 @@
 * The following AWS services support reservations to optimize costs: Amazon EC2 Reserved Instances (RI), Amazon DynamoDB Reserved Capacity, Amazon ElastiCache Reserved Nodes, Amazon RDS RIs and Amazon Redshift Reserved Nodes.
 * There is a one-minute minimum charge for Linux based EC2 instances, so this is the correct option.
 * Amazon EC2 Dedicated Hosts allow you to use your eligible software licenses from vendors such as Microsoft and Oracle on Amazon EC2.
-* 
+* AWS CloudHSM is a cloud-based Hardware Security Module (HSM) that enables you to easily generate and use your encryption keys on the AWS Cloud.
+* AWS Enterprise Support provides customers with concierge-like service where the main focus is helping the customer achieve their outcomes and find success in the cloud. With AWS Enterprise Support, you get 24x7 technical support from high-quality engineers, tools and technology to automatically manage the health of your environment, consultative architectural guidance delivered in the context of your applications and use-cases, and a designated Technical Account Manager (TAM).
+* AWS Health Dashboard - service health is the single place to learn about the availability and operations of AWS services.
+* AWS Storage Gateway service provides three different types of gateways – Tape Gateway, File Gateway, and Volume Gateway – that seamlessly connect on-premises applications to cloud storage, caching data locally for low-latency access.
+* AWS Storage Gateway is a hybrid cloud storage service that connects your existing on-premises environments with the AWS Cloud.
+* AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
+* AWS Local Zones allow you to use select AWS services, like compute and storage services, closer to more end-users, providing them very low latency access to the applications running locally.
+* Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ that makes it easy to set up and operate message brokers on AWS.
+* There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer. In most cases, there is no charge for inbound data transfer or data transfer between other AWS services within the same region.
+* The Envision phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on demonstrating how the cloud will help accelerate your business outcomes.
