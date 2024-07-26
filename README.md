@@ -25,4 +25,19 @@
 * By default, the log files delivered by CloudTrail to your S3 bucket are encrypted using server-side encryption with Amazon S3 managed keys (SSE-S3).
 * Amazon EC2 spot instances let you take advantage of unused EC2 capacity in the AWS cloud. Spot instances are available at up to a 90% discount compared to the on-demand instance prices.
 * The AWS Product team is responsible for applying patches to the underlying OS for AWS Aurora.
+* APN Consulting Partners are professional services firms that help customers of all types and sizes design, architect, build, migrate, and manage their workloads and applications on AWS, accelerating their migration to AWS cloud.
+* Customer managed keys are KMS keys in your AWS account that you create, own, and manage.
+* All AWS customers benefit from the automatic protections of AWS Shield Standard, at no additional charge. AWS Shield Standard defends against most common, frequently occurring network and transport layer DDoS attacks that target your website or applications.
+* EC2 is an example of an IaaS service.
+* A scale up operation is constrained to be running its processes on only one computer. In such systems, the only way to increase performance is to add more resources into one computer in the form of faster CPUs, memory or storage. Fault tolerance is not possible for such scaling operations since a single instance is prone to failure.
+* AWS WAF is a web application firewall that lets you monitor the HTTP and HTTPS requests that are forwarded to an Amazon API Gateway API, Amazon CloudFront or an Application Load Balancer. HTTP and HTTPS requests are part of the Application layer, which is layer 7.
+* The AWS Abuse team can assist you when AWS resources are used to engage in abusive behavior.
+* Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS.
+* SNS and SQS can be used to decouple components of a microservices-based application.
+* A gateway endpoint is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
+  * Amazon Simple Storage Service (Amazon S3)
+  * Amazon DynamoDB
+* The following AWS services support reservations to optimize costs: Amazon EC2 Reserved Instances (RI), Amazon DynamoDB Reserved Capacity, Amazon ElastiCache Reserved Nodes, Amazon RDS RIs and Amazon Redshift Reserved Nodes.
+* There is a one-minute minimum charge for Linux based EC2 instances, so this is the correct option.
+* Amazon EC2 Dedicated Hosts allow you to use your eligible software licenses from vendors such as Microsoft and Oracle on Amazon EC2.
 * 
