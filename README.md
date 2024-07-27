@@ -50,3 +50,16 @@
 * Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ that makes it easy to set up and operate message brokers on AWS.
 * There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer. In most cases, there is no charge for inbound data transfer or data transfer between other AWS services within the same region.
 * The Envision phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on demonstrating how the cloud will help accelerate your business outcomes.
+* AWS Cost & Usage Report (AWS CUR) contains the most comprehensive set of cost and usage data available.
+* You can monitor your estimated AWS charges by using Amazon CloudWatch. Billing metric data is stored in the US East (N. Virginia) Region and represents worldwide charges.
+* Read Replica improves database scalability.
+* Cloud Foundations provides a guided path to help customers deploy, configure, and secure their new workloads while ensuring they are ready for on-going operations in the cloud.
+* A security group is stateful, that is, it automatically allows the return traffic.
+* AWS Knowledge Center contains the most frequent & common questions and requests and AWS provided solutions for the same.
+* Effect and Action are mandatory elements of an IAM policy.
+* The Amazon Machine Image (AMI) must be in the same region as that of the Amazon EC2 instance to be launched.
+* AWS Identity and Access Management (AWS IAM), Amazon CloudFront, Amazon Route 53 and AWS Web Application Firewall (AWS WAF) are some of the global services.
+* Amazon Kendra is an intelligent search service powered by machine learning. Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories within your organization.
+* There are four different budget types you can create under AWS Budgets - Cost budget, Usage budget, Reservation budget and Savings Plans budget.
+* AWS Migration Evaluator (Formerly TSO Logic) is a complimentary service to create data-driven business cases for AWS Cloud planning and migration.
+*  
